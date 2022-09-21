@@ -1,16 +1,15 @@
-gcp_source_project_service_account_key: </PATH/TO/YOUR/SOURCE-PROJECT_SERVICE_ACCOUNT_KEY.JSON>
-gcp_target_project_service_account_key: </PATH/TO/YOUR/TARGET-PROJECT_SERVICE_ACCOUNT_KEY.JSON>
-
+# gcp_source_project_service_account_key: </PATH/TO/YOUR/SOURCE-PROJECT_SERVICE_ACCOUNT_KEY.JSON>
+gcp_source_project_service_account_key: gcs-bucket-mover-tool-prj01-9d98f51e14c4.json
+# gcp_target_project_service_account_key: </PATH/TO/YOUR/TARGET-PROJECT_SERVICE_ACCOUNT_KEY.JSON>
+gcp_target_project_service_account_key: audax-labs-0c1b2ed233d9.json
 lock_file_name: _locks/all.lock
-
-
 
 # --------------------------------------------------------------------------------------
 # These values can be set for running the --test option to test different bucket options
-test_bucket_location: us
+test_bucket_location: asia-south2
 test_default_kms_key_name: projects/my_source_prj/locations/global/keyRings/my_ring/cryptoKeys/my_key
-test_email_for_iam: test@google.com
+test_email_for_iam: satyamm@audaxlabs.com
 test_logging_bucket: source_bucket-logs
 test_logging_prefix: prefix-
 test_storage_class: STANDARD
-test_topic_name: my_topic
+test_topic_name: audax-labs-test-topic

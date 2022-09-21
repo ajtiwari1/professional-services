@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "gcs-bucket-mover-tool-prj01",
+  "private_key_id": "9d98f51e14c4a4f26b15abed597ddffb01c0736d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCfvae90rdhFjex\nC2hA4RGQpqZ/gwETXfiApVVPXHF+DkQOCnfEaAZKkS3FNUXKf0tis90ivvNxBylk\nt9or66C0dRjdKHlDZ2fC49CxPPTigAVhDDytUX9GcwCffevJJAINjbkcOFGFB/Ym\n3xDe3aFaJ64lRXvPN9E9cEaMr5iXB/aMy8KVvrd2IMNPLhyuO4rhVeFfKFVzoC4b\n9W5rhQf5XEhLZNNQX8fpbj07HZM9hzIPi1clB+y902iVwCW7IknKucz447Wg7ojl\nl7UoBnJ4JfAGIquNyUmAyTsq5vHq7mIdHqHz7FeAkKsKMjhjRAsW9R9ZkwXLoLX+\nLPE0OoFXAgMBAAECggEAAJuuu0zFkPOOM7jY5UJWGEhiIuMjSmkVrJu0hvBRqEqy\nnKESkqdYusjxtSn+QYaZiV8o7NxwPdJqqG0AwiEMBBPcC99/ErAel4HZhgs23XPi\nUVvEEV7ZjrGaY4ENuD7QWS/ccAyQ1uJQYBaCUG7kkdzLz22DyqaqP8MhKaDzgkOu\ndOlN2buSNyhSP/69gfKOIc3z3O7BYkuBHtR/DG5yd3bTK6B+3EiYw6T0shqNn/vW\naPoDGxzEYyrvsmT0cjPcyrIux7RLQVQiO7j9UOama4Y7BsHHWTfCAtusgga4OCmK\nwQo27/WQ/Ml4fMEfJv6Vf7ashqjH73BFcLoRKoUGJQKBgQDMZgPAa5/PEPMQQDUc\n3erx8lZ04oA8SJDg9Cjb7Nqz/jCHWQEGxyydjedMQeQsrvQHO3nYk9ZmiF0squ+m\nQIXPwqPDF+cmWUqRsHffnq+P7VNf6tVgjhzhBdWlAg/L8oDeIIG77hgvIaOVP/5i\nwR0VxvrHaUHLZ6JYz3kDXZjlUwKBgQDIEXrJLk4ozUj8GLrrnPKhzInE2F3l0F5k\n7K5toY43V7q/+GA4f38LVB5ytT/V2H03VOruyshaqyAvQ+zgytb3qbcnPL4DGRGw\njqzgbCG2wY/RRhVD0eevKK1wgNjyyfy8Velc3c8VBrqG8A33X7q3cakKIUC21KW8\nGB9C6WsPbQKBgFzluKrJv3ZDA9XM+NbH3bJdLAIvt4yuhnpXPgLGoZfQ3YmGYDsO\nZy6sggVcpTHRykNHOte+SWGMdJyKjCUJikek9P0EbiA10PhqNfFClBRcDtq3Rod9\nz45OMo2uZDOTYhKSv6QEUKWLKmf5D8sebfOp3eyn4ClsTpMCqMNo1MbVAoGAWf0y\nw2bmlQexOmNNQEk6AXjkxvujUIlmy/KBiqJOO6pkP5DShtciJ9BQWbwY2HEl8Utq\n2LmxYMb0FQ5yb7IM+x0FWsrBlNcj08x5CgDZMUDjFXh2fCjgEzMywBXUf3BHE9d4\nveKvEIAUSjmTrp8KdxTSudG3MAV5/p7DAO/IzgkCgYEAkTVX+D2mjTqgrGfz70KV\nxVSr1ECZOUuyCOgniLcPR/sIKINNa0HRJMAr9HVDEJiMX8V+N0qBO98p9MXJ9+ZS\n21VP5OO/lJOef8x461AX63WHdklQ53XbMTmfpqZcMlLO+uSdPT1Zw1Cq2Kvk0Z73\nejZ9BVEc2QjYXl6XxCVudWg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "audaxlabs-bucket-mover@gcs-bucket-mover-tool-prj01.iam.gserviceaccount.com",
+  "client_id": "102201116854204155722",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/audaxlabs-bucket-mover%40gcs-bucket-mover-tool-prj01.iam.gserviceaccount.com"
+}

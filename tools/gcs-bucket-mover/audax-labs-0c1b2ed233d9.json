@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "audax-labs",
+  "private_key_id": "0c1b2ed233d93cb1b2c1f4ac1d9fc69a365c31ff",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDhA2DSL56nUZGp\nUbOAtcVQZDbAJxuzZA35mPphEtCWbXok8sWIMt9UeNJD4D751BGqk6fjdyZxUf6k\nrDYXHrNacBq8TwD1/WZbGU4InQvBgbDapRygXcfU5WY/Gi4Dc3nF42BSqn/pli5O\nHv3U2YfLPQI3TfstyxAaqXo1awPOu0j3ybLeIqSojQqrjCu46mXptVwIYCH9+8HG\nqPezOiOGMvhDy8UimbOZi0Hx5K42NAjB9QBEzDlVH1AsEcWfzL/vK0Rwmho1YBtG\nN2LreUIMYIatZvECOFs+qnMRm8pMj+3g66v1Sm1vJ9k9q4c4ytHb+/5CpPEmYOsG\nYUkiJDvVAgMBAAECggEAB3oMQo+whDtyop9Ys+3WTkiLhTEHe5uB118HmtLRjt4O\nZqHmgb28VrCOaWZPJrqu55hxG17Ug9lx+QN7501u2jzKtqJ4FAnFLUEXAF7viruG\nJo3BThbaUq8DXxS981a9Sh+3Df16XfGj55aiCpY71pCtZ9cLLJyzE/UOXtiyegZb\n0iR3K1i+dqL6V3QWJ9V9QFsxGX9XRNUcjgHa7v27G5nQfz5ZQ4l02LOjL69RKC9K\nESzrCs9x3K4QButUzwiNCPMSKIrBPC7uE1ZAuKTuFcQBWxAM/wxExdhLS6GHhwE8\n6TNbJLrdN/EB1q4h8cnCyVfYsO/2Mowi4Ww+kzT34QKBgQD51jYkkMJEaeEe4aPI\nLTXm4evewnM15bu9oqFJI8Uf7ZmgL8858BpHJmSpDdqpe14ky/KcErxI7r43vKkm\nMAio1/hyfTm2bherGvS3T4L6NPPpSpZJIetbmhkSwjH4cXh42TkMeHdINy5+IywP\nHWjVjkeDohWcPft3nuIBkGccOQKBgQDmkGYkZ8w8vK4ULXeoj6BOOSXp+LeULk5a\nD5ry1wKom230OeWtk5fyrmvF6pozf2qwJF4jfiSM0IDAs1qMRWc2TU0t7P/cyoQW\nZwToKcbbzZ4DfvEYNbvMLb/Ba83rp9M+qsvbeINyohn79VBpgAHLqXFPjGGB/WZX\nSBhCvE8UfQKBgQCRgYHtD+Yk5Cl5y96QokwnWOL/zO4+sLsD+ijHKS8Qplf35IBj\ndQRI9gJgNzJnzPMKqUF2Rq8kJu/gFF/LXuRcOdR4EZjAOCROwhdOf99/i8GW2Jro\novmpUvlRZIqn8KZCc/j2215VT9YjHqb1cqJw5jmeX5MIeUzw4TctxAVZeQKBgH2o\nmWKiB5fapW1t0ldV3+KCFv3LhhIGosFG3AYZ1OMbwvNmUp0lYZzsHuTBFcWXXggd\n6giiCT2NrX5YwbLNaJEZ1ESBdHlbDl4/S1dU3YKSL9pr5u5w6qc/D9FU9efHkcQH\nxg8ZQVrKqiq96lN1ZoUfFhhqxAHan1pWepJ0mwzpAoGBANw7eBT/zQAoGPEwS4iA\n7kPjFMVEAWHkMX6JS4AEa55dzriytDoRTxHzWBlC4eykZZ6w/wTE/2Ihgdk91bdN\nqsdL8eTlohjo5VkjLVWaC9Ll+Jaz1zk5WaeFuKJgLyGgyo0k+LP1Hc2z6yATSZpG\ne8ahx1LBZoFdfKhOS6tkUP8L\n-----END PRIVATE KEY-----\n",
+  "client_email": "audax-labs-bucket-mover-target@audax-labs.iam.gserviceaccount.com",
+  "client_id": "117416198455595938987",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/audax-labs-bucket-mover-target%40audax-labs.iam.gserviceaccount.com"
+}
